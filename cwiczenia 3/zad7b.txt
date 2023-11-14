@@ -1,0 +1,4 @@
+BusinessEntityID,NationalIDNumber,LoginID,OrganizationNode,OrganizationLevel,JobTitle,BirthDate,MaritalStatus,Gender,HireDate,SalariedFlag,VacationHours,SickLeaveHours,CurrentFlag,rowguid,ModifiedDate
+,,,,3,,,,,,,5,,,,
+,,,,3,,,,,,,6,,,,
+,,,,3,,,,,,,4,,,,
